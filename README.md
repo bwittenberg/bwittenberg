@@ -23,4 +23,4 @@ I build high quality software in collaboration with teams. Still learning, still
 
 📫 How to reach me: https://www.linkedin.com/in/benjamin-wittenberg/
 
-⚡ What am I doing: Following [Jesus](https://www.blueletterbible.org/nlt/jhn/1/18/s_998018), shepherding of 4 kids, drinking 1 espresso per day (hopefully made with [17t Ceiling](https://bluebottlecoffee.com/us/eng/product/17ft-ceiling)).
+⚡ What am I doing: Following [Jesus](https://www.blueletterbible.org/nlt/jhn/1/18/s_998018), parenting, drinking 1 espresso per day (hopefully made with [17t Ceiling](https://bluebottlecoffee.com/us/eng/product/17ft-ceiling)).
