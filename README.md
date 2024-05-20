@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello, I'm Ben.
+### 👋 Hello, I'm Ben.
 
-I build high quality software in collaboration with teams.
+---
+
+I build high quality software in collaboration with teams. Still learning, still having fun.
+
+🔭 I'm currently working on web applications built with Typescript, React, GraphQL, and organized in a monorepo.
+
+📫 How to reach me: https://www.linkedin.com/in/benjamin-wittenberg/
+
+⚡ What am I doing: Following [Jesus](https://www.blueletterbible.org/nlt/jhn/1/18/s_998018), shepherding of 4 kids, drinking 1 espresso per day (hopefully made with [17t Ceiling](https://bluebottlecoffee.com/us/eng/product/17ft-ceiling)).
