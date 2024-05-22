@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I build high quality software in collaboration with teams. Still learning, still having fun.
 
-🔭 I'm currently working on web applications built with Typescript, React, GraphQL, and organized in a monorepo.
+🔭 I'm currently working on web applications built with Typescript, React, GraphQL, all organized in a monorepo.
 
 📫 How to reach me: https://www.linkedin.com/in/benjamin-wittenberg/
 
