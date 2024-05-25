@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I build high quality software in collaboration with teams. Still learning, still having fun.
 
-🔭 I'm currently working on web applications built with Typescript, React, GraphQL, all organized in a monorepo.
+🔭 What I'm working on: Web applications built with Typescript, React, and GraphQL, all organized in a monorepo.
 
 📫 How to reach me: https://www.linkedin.com/in/benjamin-wittenberg/
 
-⚡ What am I doing: Following [Jesus](https://www.blueletterbible.org/nlt/jhn/1/18/s_998018), parenting, drinking 1 espresso per day (hopefully made with [17t Ceiling](https://bluebottlecoffee.com/us/eng/product/17ft-ceiling)).
+⚡ What I enjoy: Following [Jesus](https://www.blueletterbible.org/nlt/jhn/1/18/s_998018), parenting, espresso made with [17t Ceiling](https://bluebottlecoffee.com/us/eng/product/17ft-ceiling).
